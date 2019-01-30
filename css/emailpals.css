@@ -1,0 +1,52 @@
+body {
+  background: url("../images/background.jpg");
+  padding: 10px;
+}
+
+marquee {
+  width: 300px;
+}
+
+h1 {
+  color: blue;
+  margin-bottom:0px;
+}
+
+.emailpals {
+  font-size: 24px;
+  font-weight: bold;
+  margin-top: 10px;
+  margin-bottom: 0px;
+}
+
+p {
+  margin:10px;
+  margin-bottom: 20px;
+}
+
+img {
+  display: block;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+marquee {
+  font-size: 32px;
+  color: red;
+}
+
+label {
+  display: inline-block;
+}
+
+td input[type=text] {
+  width: 95%;
+}
+
+input[type=submit] {
+  float: right;
+}
+
+td {
+  padding: 5px;
+}
